@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mubarak</h1>
 <h3 align="center">A passionate Game Devoloper from sudan</h3>
 
-- 👨‍💻 All of my projects are available at [https://mmubarak0.github.io/MohammedMubarak/](https://mmubarak0.github.io/MohammedMubarak/)
+- 👨‍💻 All of my projects are available at [Mohammed Mubarak](https://mmubarak0.github.io/MohammedMubarak/)
 
-- 📫 How to reach me **modymu9@gmail.com**
+- 📫 How to reach me [**Gmail**](modymu9@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
